@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+
+# Environment variables / credentials
+.env
+
+# Generated logs
+logs/
+
+# dbt generated files
+target/
+dbt_packages/
+
+# Python generated files
+__pycache__/
+*.pyc
